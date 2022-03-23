@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://movies-post-cc0a6-default-rtdb.firebaseio.com'
